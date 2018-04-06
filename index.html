@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>title</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"> </script>
+
+    </head>
+    <body>
+        <div id="header">
+            <img alt="Frej Haar" src="frej.png" draggable="false" />
+        </div>
+
+        <div id="menu">
+            <table>
+                <tr>
+                    <td class="active">Hem</td>
+                    <td>Om</td>
+                    <td>Poesi</td>
+                    <td>Kontakt</td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="content">
+
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script>
+         var converter = new showdown.Converter();
+         var pages = {};
+
+         $(document).ready(function() {
+         });
+
+         function setPage(page,button) {
+             $("#menu table td").removeClass('active');
+             $(button).addClass('active');
+             $('#content').html(pages[page]);
+         }
+
+         $("#menu table td").click(function (e) {
+             var page = e.currentTarget.innerText;
+             if (!pages[page]) {
+                 $.get(page+".md", function(res) {
+                     pages[page] = converter.makeHtml(res);
+                     setPage(page,e.currentTarget);
+                 });
+             } else {
+                 setPage(page,e.currentTarget);
+             }
+         });
+        </script>
+    </body>
+</html>

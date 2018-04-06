@@ -1,0 +1,57 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html, body {
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#header img {
+    max-width: 100%;
+}
+
+
+
+#menu {
+    padding: 0 7%;
+    background-color: teal;
+}
+
+#menu table {
+    width: 100%;
+    text-align: center;
+    table-layout: fixed;
+}
+
+#menu table td {
+    padding: 12px;
+    font-size: 2.2em;
+    font-family: serif;
+    color: white;
+    cursor: pointer;
+}
+
+#menu table td.active {
+    text-decoration: underline;
+}
+
+#content {
+    padding: 15px 10%;
+    font-family: serif;
+}
+
+#content h1 {
+    font-size: 1.8em;
+}
+
+#content p {
+    font-size: 1.4em;
+}
