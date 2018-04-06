@@ -1,5 +1,5 @@
 # Om Frej
-<img src="ansikte.jpg" style="float: right;margin: 5px;" width="45%">
+<img src="ansikte.jpg" class="right">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut nunc velit. Phasellus venenatis placerat nunc, nec mattis sapien congue at. Nullam non posuere lacus. Integer posuere ullamcorper elit a tempor. Phasellus non condimentum elit. Aliquam suscipit consectetur ex, non commodo felis fermentum dignissim. Quisque aliquet ut dolor quis luctus. Sed condimentum diam ac eros cursus, a tristique metus euismod.
 
 Sed at nibh aliquam, sodales lorem pharetra, gravida ligula. Phasellus cursus lacus non odio tincidunt molestie. Integer sagittis purus dictum, ornare leo quis, euismod lorem. Pellentesque rutrum ex at tortor consectetur aliquam. Sed consequat nulla a tellus fermentum vehicula. Nam molestie sollicitudin turpis, quis fringilla ligula commodo sit amet. Sed commodo, arcu ut consectetur ullamcorper, nisi turpis bibendum lorem, sed suscipit neque massa vel libero. In hac habitasse platea dictumst. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer et est quis mauris varius gravida. Nullam efficitur neque nulla. Donec interdum orci nec tortor tempus cursus. Nullam sit amet risus sem. Mauris in mauris nibh. Sed in convallis lacus, non vestibulum lectus.

@@ -2,9 +2,9 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>title</title>
+        <title>Frej Haar</title>
         <link rel="stylesheet" href="style.css" type="text/css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"> </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"> </script>
 
     </head>
     <body>
@@ -14,12 +14,14 @@
 
         <div id="menu">
             <table>
-                <tr>
-                    <td class="active">Hem</td>
-                    <td>Om</td>
-                    <td>Poesi</td>
-                    <td>Kontakt</td>
-                </tr>
+                <thead>
+                    <tr>
+                        <td id="home">hem</td>
+                        <td>om</td>
+                        <td>poesi</td>
+                        <td>kontakt</td>
+                    </tr>
+                </thead>
             </table>
         </div>
 
@@ -31,26 +33,33 @@
         <script>
          var converter = new showdown.Converter();
          var pages = {};
+         var base_title;
 
          $(document).ready(function() {
+             base_title = document.title;
+             var homebutton = document.getElementById('home');
+             setPage('hem', homebutton);
          });
 
          function setPage(page,button) {
-             $("#menu table td").removeClass('active');
-             $(button).addClass('active');
-             $('#content').html(pages[page]);
-         }
-
-         $("#menu table td").click(function (e) {
-             var page = e.currentTarget.innerText;
              if (!pages[page]) {
                  $.get(page+".md", function(res) {
                      pages[page] = converter.makeHtml(res);
-                     setPage(page,e.currentTarget);
+                     $("#menu table td").removeClass('active');
+                     $(button).addClass('active');
+                     $('#content').html(pages[page]);
+                     document.title = base_title + " - " + page;
                  });
              } else {
-                 setPage(page,e.currentTarget);
+                 $("#menu table td").removeClass('active');
+                 $(button).addClass('active');
+                 $('#content').html(pages[page]);
+                 document.title = base_title + " - " + page;
              }
+         }
+
+         $("#menu table td").click(function (e) {
+             setPage(e.currentTarget.innerText, e.currentTarget);
          });
         </script>
     </body>
