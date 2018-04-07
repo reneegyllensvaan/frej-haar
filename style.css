@@ -44,8 +44,8 @@ html, body {
 }
 
 #menu table td {
-    padding: 12px;
-    font-size: 2.2em;
+    padding: 12px 0;
+    font-size: 24px;
     font-family: serif;
     cursor: pointer;
     border-left: 1px solid white;
@@ -55,18 +55,17 @@ html, body {
 }
 @media only screen and (max-width: 600px) {
     #menu table td {
-        font-size: 1.4em;
+        font-size: 18px;
     }
 }
 @media only screen and (max-width: 430px) {
     #menu table td {
-       font-size: 1.0em;
+        font-size: 13px;
     }
 }
 @media only screen and (max-width: 430px) {
     #menu table td {
-        font-size: 0.8em;
-        padding: 7px;
+        font-size: 11px;
     }
 }
 
@@ -93,7 +92,7 @@ img.left, img.right {
     width: 50%;
     margin: 5px;
 }
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 1000px) {
     img.left, img.right {
         width: 100%;
         display: block;
