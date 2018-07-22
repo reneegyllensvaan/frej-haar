@@ -118,6 +118,7 @@ html, body {
 }
 #page.hidden {
     background-color: black;
+    min-height: 0;
 }
 
 .unselectable {
