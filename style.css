@@ -106,6 +106,9 @@ html, body {
 #content p {
     font-size: 1.4em;
 }
+#content a {
+    color: white;
+}
 
 #page {
     /* background-color: rgb(127, 127, 127); */
@@ -125,12 +128,12 @@ html, body {
     -o-user-select: none;
 }
 
-img.left, img.right {
+.left, .right {
     width: 50%;
     margin: 5px;
 }
 @media only screen and (max-width: 1000px) {
-    img.left, img.right {
+    .left, .right {
         width: 100%;
         display: block;
     }

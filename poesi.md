@@ -1,17 +1,2 @@
 # Poesi
-## dikt 1
-But critical outfits subcultured in shame
-
-for him who sausage loves
-
-But critical outfits subcultured in shame
-
-And in other times we baste the elves 
-
-so he donned his old tog
-
-o the mighty may chose to smote-smote
-
-Why is it Bill Gates looks like a frog?
-
-Though filled with elegance and charm, take note. 
+<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/246800466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
