@@ -2,6 +2,7 @@ html {
     box-sizing: border-box;
     background-color: black;
     color: white;
+    font-family: 'Amiri' serif;
 }
 
 * {
@@ -23,6 +24,7 @@ html, body {
 
 #header {
     text-align: center;
+    font-family: 'Tinos' serif;
 }
 
 #header img {
@@ -41,6 +43,7 @@ html, body {
     width: 100%;
     text-align: center;
     table-layout: fixed;
+    font-family: 'Tinos' serif;
 }
 
 #menu table td {
