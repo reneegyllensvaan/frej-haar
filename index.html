@@ -22,9 +22,9 @@
                 <thead>
                     <tr class="unselectable">
                         <!-- <td>hem</td> -->
-                        <td>poesi</td>
-                        <td>om</td>
-                        <td>kontakt</td>
+                        <td data-en="poetry">poesi</td>
+                        <td data-en="about">om</td>
+                        <td data-en="contact">kontakt</td>
                     </tr>
                 </thead>
             </table>
@@ -40,11 +40,21 @@
         var converter = new showdown.Converter();
         var pages = {};
         var base_title;
+        var lang = 'se';
 
         $(document).ready(function () {
             base_title = document.title;
             //  var homebutton = document.getElementById('home');
             //  setPage('hem', homebutton);
+            var url = new URL(window.location.href)
+            if (url.searchParams.get('lang') === 'en') {
+                lang = 'en';
+                $('#menu table td').each(function (index,item) {
+                    $(item).text(
+                        $(item).data('en')
+                    );
+                });
+            }
         });
 
         function enterPage() {
@@ -62,6 +72,7 @@
         }
 
         function setPage(page, button) {
+            page = page + '-' + lang
             if (!pages[page]) {
                 $.get(page + ".md", function (res) {
                     pages[page] = converter.makeHtml(res);
