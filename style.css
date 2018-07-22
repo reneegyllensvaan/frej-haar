@@ -3,6 +3,7 @@ html {
     background-color: black;
     color: white;
     font-family: 'Amiri', serif;
+    font-size: 16px;
 }
 
 * {
@@ -48,8 +49,11 @@ html, body {
     cursor: pointer;
 }
 @media only screen and (max-width: 1000px) {
-    #header {
+    body #header {
         background-position-x: 40%;
+    }
+    body #menu table td {
+        font-size: 2.4em;
     }
 }
 
