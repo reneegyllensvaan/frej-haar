@@ -102,15 +102,21 @@ html, body {
     padding-top: 0;
     padding-bottom: 0;
 }
-
 #content h1 {
     font-size: 1.8em;
 }
-
 #content p {
     font-size: 1.4em;
 }
 
+#page {
+    background-color: rgb(127, 127, 127);
+    transition: all 1s;
+    min-height: calc(100vh - 200px);
+}
+#page.hidden {
+    background-color: black;
+}
 
 
 img.left, img.right {
