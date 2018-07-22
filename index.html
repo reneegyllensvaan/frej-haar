@@ -13,14 +13,14 @@
 
 <body>
     <div id="header">
-        <div>Frej Haar</div>
+        <div class="unselectable">Frej Haar</div>
     </div>
 
     <section id="page" class="hidden">
         <div id="menu">
             <table>
                 <thead>
-                    <tr>
+                    <tr class="unselectable">
                         <!-- <td>hem</td> -->
                         <td>poesi</td>
                         <td>om</td>
@@ -58,6 +58,7 @@
             $('#page').addClass('hidden');
             $('#content').addClass('hidden');
             $("#menu table td").removeClass('active');
+            document.title = base_title;
         }
 
         function setPage(page, button) {
