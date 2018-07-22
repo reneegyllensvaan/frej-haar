@@ -80,8 +80,7 @@ html, body {
 
 #menu table td {
     padding: 12px 0;
-    font-size: 32px;
-    /* font-size: 1.8em; */
+    font-size: 1.8em;
     cursor: pointer;
     /* border-left: 1px solid white; */
 }
@@ -120,7 +119,7 @@ html, body {
     /* background-color: rgb(127, 127, 127); */
     background-color: rgb(116, 116, 116);
     transition: all 1s;
-    min-height: calc(100vh - 200px);
+    min-height: calc(100% - 200px);
 }
 #page.hidden {
     background-color: black;
