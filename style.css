@@ -47,11 +47,11 @@ html, body {
     font-family: 'Tinos', serif;
     cursor: pointer;
 }
-/* @media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) {
     #header {
-        margin-top: -100px;
+        background-position-x: 40%;
     }
-} */
+}
 
 #header img {
     max-width: 100%;
@@ -80,7 +80,8 @@ html, body {
 
 #menu table td {
     padding: 12px 0;
-    font-size: 1.8em;
+    font-size: 32px;
+    /* font-size: 1.8em; */
     cursor: pointer;
     /* border-left: 1px solid white; */
 }
