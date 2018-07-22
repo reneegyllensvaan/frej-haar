@@ -25,7 +25,7 @@ html, body {
 #header {
     text-align: center;
     font-family: 'Tinos', serif;
-    height: calc(100vh - 140px);
+    height: calc(100% - 140px);
     background-image: url('pressfoto1justerad.jpg');
     background-position: center;
     background-size: cover;
@@ -47,11 +47,11 @@ html, body {
     font-family: 'Tinos', serif;
     cursor: pointer;
 }
-@media only screen and (max-width: 1000px) {
+/* @media only screen and (max-width: 1000px) {
     #header {
         margin-top: -100px;
     }
-}
+} */
 
 #header img {
     max-width: 100%;
