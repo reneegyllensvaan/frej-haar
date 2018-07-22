@@ -45,6 +45,7 @@ html, body {
     line-height: 200px;
     font-size: 90px;
     font-family: 'Tinos', serif;
+    cursor: pointer;
 }
 
 #header img {
