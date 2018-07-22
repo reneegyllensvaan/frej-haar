@@ -24,7 +24,27 @@ html, body {
 
 #header {
     text-align: center;
-    font-family: 'Tinos' serif;
+    font-family: 'Tinos', serif;
+    height: calc(100vh - 140px);
+    background-image: url('pressfoto1justerad.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    transition: all 1s;
+}
+#header.hidden {
+    height: 200px;
+    background-position-y: 32%;
+}
+
+#header > div {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 200px;
+    font-size: 90px;
+    font-family: 'Tinos', serif;
 }
 
 #header img {
@@ -37,39 +57,35 @@ html, body {
 
 #menu {
     padding: 0 7%;
+    height: 140px;
+    position: relative;
 }
 
 #menu table {
+    height: 140px;
     width: 100%;
     text-align: center;
     table-layout: fixed;
-    font-family: 'Tinos' serif;
+    font-family: 'Tinos', serif;
+    height: 140px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 #menu table td {
     padding: 12px 0;
-    font-size: 24px;
+    font-size: 1.8em;
     font-family: serif;
     cursor: pointer;
-    border-left: 1px solid white;
+    /* border-left: 1px solid white; */
+}
+
+#menu table td:first-child {
+    float: left;
 }
 #menu table td:last-child {
-    border-right: 1px solid white;
-}
-@media only screen and (max-width: 600px) {
-    #menu table td {
-        font-size: 18px;
-    }
-}
-@media only screen and (max-width: 430px) {
-    #menu table td {
-        font-size: 13px;
-    }
-}
-@media only screen and (max-width: 430px) {
-    #menu table td {
-        font-size: 11px;
-    }
+    float: right;
 }
 
 #menu table td.active {
@@ -79,6 +95,12 @@ html, body {
 #content {
     padding: 15px 10%;
     font-family: serif;
+}
+#content.hidden {
+    overflow: hidden;
+    height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 #content h1 {
