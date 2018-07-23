@@ -72,7 +72,7 @@
         }
 
         function setPage(page, button) {
-            page = page + '-' + lang
+            page = lang + '-' + page;
             if (!pages[page]) {
                 $.get(page + ".md", function (res) {
                     pages[page] = converter.makeHtml(res);
