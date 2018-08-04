@@ -1,5 +1,15 @@
-# Om Frej
-<img src="ansikte.jpg" class="right">
+<div class="image-with-credit right">
+    <img src="svartvit.jpg">
+    <div>Foto: Alice Hedström</div>
+</div>
+**jag vill stöpa om ljuset<br>
+stöpa könet i plast<br>
+jag vill rädda mig själv från det onda<br>
+amen**
+
+-
+
+<br>
 Frej Haar är en dansk-svensk spoken word-poet född i Köpenhamn, i dag baserad i Göteborg. Hen vann svenska mästerskapet i poetry slam 2017, efter att ha blivit Uppsalamästare. Samma höst vann hen europeiska mästerskapet i Bryssel. Frej är utbildad bebyggelseantikvarie och lånar ofta tematik från kulturvårdsfältet. Annars skriver hen om de utsuddade linjerna och det vardagsbetraktande gränslösa genom att konstruera narrativ som ifrågasätter den fasta tillvaron, dess manliga författare och det inneboende. Hen talar transperspektiv och lesbiskhet, arven och skammen, orken och dess kvinnor. Det är sånger som aldrig kom hem.
 
 Sedan 2016 har Frej självpublicerat diktfanzines, men även blivit publicerad i bl.a. norska queerkulturmagasinet MELK. I dag håller hen workshops, uppträder och skriver på sitt diktmanus.

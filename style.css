@@ -112,14 +112,14 @@ html, body {
 }
 #content p {
     font-size: 1.4em;
+    margin: 0 0 14px 0
 }
 #content a {
     color: white;
 }
 
 #page {
-    /* background-color: rgb(127, 127, 127); */
-    background-color: rgb(116, 116, 116);
+    background-color: rgb(127, 127, 127);
     transition: all 1s;
     min-height: calc(100% - 200px);
 }
@@ -134,6 +134,18 @@ html, body {
     -khtml-user-select: none;
     -webkit-user-select: none;
     -o-user-select: none;
+}
+
+.image-with-credit {
+    position: relative;
+}
+.image-with-credit > div {
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+.image-with-credit > img {
+    width: 100%;
+    display: block
 }
 
 .left, .right {
