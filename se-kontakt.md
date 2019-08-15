@@ -1,5 +1,5 @@
-# Kontakt
-Vill du boka Frej eller på annat sätt få tag på hen? Hen nås via:
+# Kontakt/Boka
+Vill du boka Frej för ett uppträdande, en workshop, eller på annat sätt få tag på hen? Hen nås via:
 
 [frej.haar@gmail.com](mailto:frej.haar@gmail.com) och
 
