@@ -27,7 +27,7 @@ html, body {
     text-align: center;
     font-family: 'Tinos', serif;
     height: calc(100% - 140px);
-    background-image: url('pressfoto1justerad.jpg');
+    background-image: url('header.png');
     background-position: center;
     background-size: cover;
     position: relative;
