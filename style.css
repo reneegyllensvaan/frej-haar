@@ -37,16 +37,7 @@ html, body {
     background-position-y: 10%;
 }
 
-#header > div {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    line-height: 200px;
-    font-size: 90px;
-    font-family: 'Tinos', serif;
-    cursor: pointer;
-}
+
 @media only screen and (max-width: 1000px) {
     body #header {
         background-position-x: 100%;
@@ -57,7 +48,6 @@ html, body {
 
 #header img {
     max-width: 100%;
-    font-size: 90px;
 }
 
 #menu {
