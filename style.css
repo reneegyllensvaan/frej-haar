@@ -26,6 +26,7 @@ html, body {
 #header {
     height: calc(100% - 140px);
     background-image: url('header.png');
+    background-repeat: no-repeat
     background-position: center;
     background-size: 100%;
     position: relative;
@@ -33,7 +34,7 @@ html, body {
 }
 #header.hidden {
     height: 200px;
-    background-position-y: 32%;
+    background-position-y: 100%;
 }
 
 #header > div {
@@ -112,7 +113,7 @@ html, body {
     margin: 0 0 14px 0
 }
 #content a {
-    color: white;
+    color: black;
 }
 
 #page {
