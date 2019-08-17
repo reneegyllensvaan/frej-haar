@@ -27,7 +27,7 @@ html, body {
     height: calc(100% - 140px);
     background-image: url('header.png');
     background-position: center;
-    background-size: cover;
+    background-size: 100%;
     position: relative;
     transition: all 1s;
 }
@@ -48,7 +48,7 @@ html, body {
 }
 @media only screen and (max-width: 1000px) {
     body #header {
-        background-position-x: 40%;
+        background-position-x: 100%;
     }
     body #menu table td {
         font-size: 2.4em;
