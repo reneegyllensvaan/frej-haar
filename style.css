@@ -119,7 +119,7 @@ html, body {
 }
 
 #page {
-    background-color: rgb(127, 127, 127);
+    background-color: rgb(255, 255, 255);
     transition: all 1s;
     min-height: calc(100% - 200px);
 }
