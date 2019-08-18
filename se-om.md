@@ -1,5 +1,5 @@
 <div class="image-with-credit right">
-    <img src="photoanalog.png">
+    <img src="photoanalog50.png">
     <div>Foto: Alice Hedström</div>
 </div>
 <span style="color: rgb(234,236,242)">
