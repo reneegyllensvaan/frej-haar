@@ -50,6 +50,7 @@ html, body {
   }
 
 
+  /*
 @media only screen and (max-width: 1000px) {
     body #header {
         background-position-x: 100%;
@@ -58,6 +59,7 @@ html, body {
         font-size: 2.4em;
     }
 }
+*/
 
 #header img {
     max-width: 100%;
@@ -153,6 +155,7 @@ html, body {
     width: 50%;
     margin: 5px;
 }
+
 @media only screen and (max-width: 1000px) {
     .left, .right {
         width: 100%;
