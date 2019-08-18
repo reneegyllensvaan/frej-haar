@@ -78,6 +78,7 @@ html, body {
     text-align: center;
     table-layout: fixed;
     font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
     height: 140px;
     position: relative;
     top: 50%;
