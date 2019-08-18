@@ -116,7 +116,8 @@ html, body {
 }
 #content p {
     font-size: 1.4em;
-    margin: 0 0 14px 0
+    margin: 0 0 14px 0;
+    line-height: 1.5;
 }
 #content a {
     color: #abb2cb;
