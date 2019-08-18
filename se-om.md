@@ -2,7 +2,7 @@
     <img src="photoanalog50.png">
     <div>Foto: Alice Hedström</div>
 </div>
-<span style="color: rgb(234,236,242)">
+<span style="color: rgb(131, 141, 168)">
 jag vill stöpa om ljuset<br>
 stöpa könet i plast<br>
 jag vill rädda mig själv från det onda<br>
