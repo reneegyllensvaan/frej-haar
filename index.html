@@ -22,9 +22,21 @@
           <table>
             <thead>
               <tr class="unselectable">
-                <td data-en="poetry">poesi</td>
-                <td data-en="about">om</td>
-                <td data-en="contact" data-se-page="kontakt">kontakt/boka</td>
+                <td
+                  data-en="Poetry"
+                  data-en-page="poetry"
+                  data-se-page="poesi"
+                  >Poesi</td>
+                <td
+                  data-en="About"
+                  data-en-page="about"
+                  data-se-page="om"
+                >Om</td>
+                <td
+                  data-en="contact"
+                  data-en="Contact / Bookings"
+                  data-se-page="kontakt"
+                >Kontakt / Boka</td>
               </tr>
             </thead>
           </table>
@@ -93,7 +105,7 @@
 
         $("#menu table td").click(function (e) {
             setPage(
-              $(e.currentTarget).data('se-page') || e.currentTarget.innerText,
+              $(e.currentTarget).data(lang + '-page') || e.currentTarget.innerText,
               e.currentTarget,
             );
         });
