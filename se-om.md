@@ -2,12 +2,13 @@
     <img src="photoanalog.png">
     <div>Foto: Alice Hedström</div>
 </div>
-<span style="color: rgb(234,236,242)>
+<span style="color: rgb(234,236,242)">
 jag vill stöpa om ljuset<br>
 stöpa könet i plast<br>
 jag vill rädda mig själv från det onda<br>
 amen<br>
---<br> </span>
+--<br>
+</span>
 
 <br>
 Frej Haar är en dansk-svensk spoken word-poet född i Köpenhamn, baserad i Göteborg. Hen äntrade den svenska poetry slam-scenen en mörk vinter 2014 och blev svensk och europeisk mästare 2017. Tematiken rör allt från gemenskapen till plasten, politiken, (arkitektur)historia, kulturarv, Flatland och längtan efter ikoner som gått bort.
