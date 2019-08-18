@@ -1,5 +1,5 @@
 <div class="image-with-credit right">
-    <img src="photoanalog33.png">
+    <img src="photoanalog50.png">
 </div>
 
 <span style="color: rgb(131, 141, 168)">
