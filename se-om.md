@@ -1,6 +1,5 @@
 <div class="image-with-credit right">
-    <img src="photoanalog50.png">
-    <div>Foto: Alice Hedström</div>
+    <img src="photoanalog33.png">
 </div>
 <span style="color: rgb(131, 141, 168)">
 jag vill stöpa om ljuset<br>
