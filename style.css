@@ -28,13 +28,14 @@ html, body {
     background-image: url('header.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 50%;
+    background-size: 80%;
     position: relative;
     /* transition: all 1s; */
 }
 #header.hidden {
     height: 200px;
     background-position-y: 10%;
+    background-size: 50%;
 }
 
 #header > div {
@@ -154,7 +155,7 @@ html, body {
 }
 
 .left, .right {
-    width: 35%;
+    width: 40%;
     margin: 16px;
 }
 
