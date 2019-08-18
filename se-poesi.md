@@ -1,4 +1,3 @@
-<img src="printer.gif">
 
 
 Jag finns även på [youtube](https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA) och [facebook](https://www.facebook.com/frejhaarpoetry/).
