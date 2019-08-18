@@ -24,7 +24,7 @@
               <tr class="unselectable">
                 <td data-en="poetry">poesi</td>
                 <td data-en="about">om</td>
-                <td data-en="contact">kontakt</td>
+                <td data-en="contact" data-se-page="kontakt">kontakt/boka</td>
               </tr>
             </thead>
           </table>
@@ -92,7 +92,10 @@
         }
 
         $("#menu table td").click(function (e) {
-            setPage(e.currentTarget.innerText, e.currentTarget);
+            setPage(
+              $(e.currentTarget).data('se-page') || e.currentTarget.innerText,
+              e.currentTarget,
+            );
         });
 
         $('#header > div').click(function (e) {
