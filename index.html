@@ -12,10 +12,9 @@
 </head>
 
 <body>
-    <div id="language">
-      <a href="swe"></a>
-      |<a href="swe"></a>
-    </div>
+    <span id="language">
+      <a data-en="swedish" data-en-href="/" href="/?lang=en">english</a>
+    </span>
 
      <div id="header">
         <div class="unselectable"></div>
@@ -71,7 +70,10 @@
                         $(item).data('en')
                     );
                 });
-            }
+                var languageLink = $('#language > a');
+                languageLink.text(languageLink.data('en'));
+                languageLink.attr('href', languageLink.data('en-href'));
+              }
         });
 
         function enterPage() {
