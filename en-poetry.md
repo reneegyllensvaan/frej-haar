@@ -2,7 +2,7 @@
 
 <i>I want to recast the candle<br>
 cast the sex in plastic<br>
-deliver myself from evil<br>
+I will deliver myself from evil<br>
 amen.<br>
     --<br></i>
 </span>
