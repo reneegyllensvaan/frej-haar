@@ -1,4 +1,4 @@
-<img src="DSC05513-copy.jpg" class="right">
+<img src="DSC05513-copy.jpg" class="left">
 
 <span style="color: rgb(131, 141, 168)">
 
