@@ -33,14 +33,16 @@ Stadens ådror bestod av en 4,6 m rosa vägg där en plexiskiva med dikt sattes 
 
 Stadens ådror ställdes ut på Friplanket i Göteborg under okt - nov 2020.
 
+<br>
+
 <span style="color: rgb(0, 1, 0)">
     <b> Changemakers (2019) (beställningsverk)</b>
 </span>
 
-<br>
 Beställningsverk för Adventure Travel Trade Associations Adventure Travel World Summit i september 2019. Diktuppträdande under keynote om ungas kraft och förändringspotential för framtiden. Mary Turner, redaktör vid [Outside Magazine](https://www.outsideonline.com/2402857/everything-our-editors-loved-september/) sa:
 
 <i>“At the Adventure Travel Trade Association’s recent conference in Gothenburg, Sweden, I heard Danish-Swedish poet Frej Haar perform a poetry slam about the climate change crisis. Haar writes about trans activism, heritage, and other things close to their heart. Their words gave me chills, and people were both moved to tears and on their feet cheering Haar on.”</i>
+<br>
 
 <div class="image-with-credit right">
     <img src="pressbild.png">
