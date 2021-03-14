@@ -18,12 +18,12 @@ historian kring din uppväxt<br>
 
 <span style="color: rgb(0, 1, 0)">
     
-<b>Publikationer:</b>
+<b>Publikationer:<br></b>
 </span>
-Skrivarlinjen på Skurups folkhögskola 2020-21 Antologi (kommande våren 2021)
-Poesijakten - antologi 2020 (kommande våren 2021), Fri press förlag
+Skrivarlinjen på Skurups folkhögskola 2020-21 Antologi (kommande våren 2021).<br>
+Poesijakten - antologi 2020 (kommande våren 2021), Fri press förlag.<br>
 
-Tidskriften Ordkonst 4:2020 tema Mikro - Appendix. Dikt "I en annan tid kommer någon att minnas oss"<br>
+Tidskriften Ordkonst 4:2020 tema Mikro - Appendix. Dikt "I en annan tid kommer någon att minnas oss",<br>
 Tidskriften Roten 4:2020 tema Minne. Dikt "Det fanns en stad".<br>
 Kultur Ungdom månadens poet våren 2020. Dikt ["Dyk"](https://www.kulturungdom.se/genre/text/353-poesi-dyk), ["Till de som behöver stöd"](https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod), ["Ådrorna av staden"](https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden), ["hästtjejer"](https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer).<br>
 Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Deltagande poet.<br>
