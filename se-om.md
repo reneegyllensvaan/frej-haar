@@ -47,7 +47,7 @@ Beställningsverk för Adventure Travel Trade Associations Adventure Travel Worl
 <div class="image-with-credit right">
     <img src="pressbild.png">
 </div>
-
+<br>
 <span style="color: rgb(0, 1, 0)">
     <b> Frej Haar & Mor Måne (2017)</b>
 </span>
