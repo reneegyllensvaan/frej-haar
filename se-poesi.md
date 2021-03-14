@@ -16,8 +16,7 @@ historian kring din uppväxt<br>
     --<br></i>
 </span>
 
-
-
+<br>
 <span style="color: rgb(0, 1, 0)">
     
 <b>Publikationer:<br></b>
@@ -32,6 +31,7 @@ Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Deltagande 
 Tidskriften [MELK](https://www.melkmag.com/tidsskriftet.html) 4:2017 tema Junk. Artikel/essä "Kulturdokumentation i utkanten av rummet".<br>
 Tidskriften MELK 2/2017 tema OVERSKRIDELSER. Dikt "Snail child".<br>
 <br>
+<span style="color: rgb(0, 1, 0)">
 Jag finns även på [youtube](https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA) och [facebook](https://www.facebook.com/frejhaarpoetry/).
-
+</span>
 
