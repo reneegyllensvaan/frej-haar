@@ -52,4 +52,11 @@ Beställningsverk för Adventure Travel Trade Associations Adventure Travel Worl
     <b> Frej Haar & Mor Måne (2017)</b>
 </span>
 
-Poesi/ljudverk, framträdande Palmarum 9/6 2017. Arbetades fram med Mor Måne/Renée Gyllensvaan. Delar har senare framförts på andra scener, som Ordsprak (2017).
+Poesi/ljudverk, framträdande Palmarum 9/6 2017. Arbetades fram med Mor Måne/Renée Gyllensvaan med avstamp i diktsviten Snailchild. Delar har senare framförts på andra scener, som Ordsprak (2017).
+<br>
+
+<span style="color: rgb(0, 1, 0)">
+    <b> Snailchild (2016)</b>
+</span>
+
+Diktsviten "Snailchild - Burial of the dichotomous body" behandlade icke-binära transnarrativ och biologi. Trycktes upp som fanzine med illustrationer av Nino Mick. 
