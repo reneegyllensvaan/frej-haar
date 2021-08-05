@@ -22,13 +22,13 @@ historian kring din uppväxt<br>
 <b>Publikationer:<br></b>
 </span>
 Orientering. Skurups skrivarlinje 2021. [(köp här)](https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler)<br>
-Trakten 3: Fattig/rik. Dikt ["Det kommer alltid finnas frågor"](https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/)<br>
+Trakten 3:2020 tema Fattig/rik. Dikt ["Det kommer alltid finnas frågor"](https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/)<br>
 Tidskriften Ordkonst 4:2020 tema Mikro - Appendix. Dikt "I en annan tid kommer någon att minnas oss",<br>
 Tidskriften Roten 4:2020 tema Minne. Dikt "Det fanns en stad".<br>
 Kultur Ungdom månadens poet våren 2020. Dikt ["Dyk"](https://www.kulturungdom.se/genre/text/353-poesi-dyk), ["Till de som behöver stöd"](https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod), ["Ådrorna av staden"](https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden), ["hästtjejer"](https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer).<br>
 Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Deltagande poet.<br>
 Tidskriften [MELK](https://www.melkmag.com/tidsskriftet.html) 4:2017 tema Junk. Artikel/essä "Kulturdokumentation i utkanten av rummet".<br>
-Tidskriften MELK 2/2017 tema OVERSKRIDELSER. Dikt "Snail child".<br>
+Tidskriften MELK 2:2017 tema OVERSKRIDELSER. Dikt "Snail child".<br>
 <br>
 <span style="color: rgb(0, 1, 0)">
 Jag finns även på [youtube](https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA) och [facebook](https://www.facebook.com/frejhaarpoetry/).
