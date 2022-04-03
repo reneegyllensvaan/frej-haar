@@ -21,6 +21,10 @@ historian kring din uppväxt<br>
     
 <b>Publikationer:<br></b>
 </span>
+Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt "Dag1_/Dag2_"
+[Dungens Fyra Sidor #4](https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/) Dikt "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson"
+Tidskriften Astra 4:2021 tema Omsorg/Omtanke/Omvårdnad. Essä "Jag längtar efter Karin Lindgren längtar efter mig"
+Tidskriften Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essä "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?"
 Orientering. Skurups skrivarlinje 2021. [(köp här)](https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler)<br>
 Trakten 3:2020 tema Fattig/rik. Dikt ["Det kommer alltid finnas frågor"](https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/)<br>
 Tidskriften Ordkonst 4:2020 tema Mikro - Appendix. Dikt "I en annan tid kommer någon att minnas oss",<br>
