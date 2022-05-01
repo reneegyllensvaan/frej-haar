@@ -21,7 +21,7 @@ historian kring din uppväxt<br>
     
 <b>Publikationer:<br></b>
 </span>
-Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt "Dag1_/Dag2_"<br>
+Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt ["Dag1_/Dag2_"](https://ordkonst.nu/text/?author=Ordkonst?text=R%C3%A4ttelse:+Dag1_/Dag2_+av+Frej+Haar) <br>
 [Dungens Fyra Sidor #4](https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/) Dikt "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson"<br>
 Tidskriften Astra 4:2021 tema Omsorg/Omtanke/Omvårdnad. Essä "Jag längtar efter Karin Lindgren längtar efter mig"<br>
 Tidskriften Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essä "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?"<br>
