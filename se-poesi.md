@@ -18,7 +18,7 @@ historian kring din uppväxt<br>
 
 <br>
 <span style="color: rgb(0, 1, 0)">
-    h
+
 <b>Publikationer:<br></b>
 </span>
 20TAL nr. 6 tema Språk & Samhörighet. Dikt "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" <br>
