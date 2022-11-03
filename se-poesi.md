@@ -24,7 +24,7 @@ historian kring din uppväxt<br>
 20TAL nr. 6 tema Språk & Samhörighet. Dikt "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" <br>
 POETER I TVÅAN. Dikt "Why we venerate sado-masochistic, suicidal drug-addicts" tillsammans med Jorunn Lavonius.<br>
 Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt ["Dag1_/Dag2_"](https://ordkonst.nu/text/?author=Ordkonst?text=R%C3%A4ttelse:+Dag1_/Dag2_+av+Frej+Haar) <br>
-Antologi Nod (red. Michael Horvath, Region Örebro län). 2022. Dikt "Gay Power-68".
+Antologi Nod (red. Michael Horvath, Region Örebro län). 2022. Dikt "Gay Power-68".<br>
 [Dungens Fyra Sidor #4](https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/) Dikt "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson"<br>
 Tidskriften Astra 4:2021 tema Omsorg/Omtanke/Omvårdnad. Essä "Jag längtar efter Karin Lindgren längtar efter mig"<br>
 Tidskriften Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essä "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?"<br>
