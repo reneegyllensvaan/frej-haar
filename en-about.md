@@ -1,10 +1,6 @@
 <img src="DSC05513-copy.jpg" class="right">
 
 <span style="color: rgb(131, 141, 168)">
-
-<i>I tell stories<br>
-it is your choice<br>
-to listen<br>
     --<br></i>
 </span>
 <br>
