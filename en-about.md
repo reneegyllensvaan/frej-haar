@@ -9,7 +9,4 @@ to listen<br>
 </span>
 <br>
 
-Frej Haar (born 1996 outside Copenhagen) is a Danish-Swedish spoken word-poet based in Malmö. They won the 2017 Swedish National Poetry Slam Championship and the following European Championship in Brussels, Belgium. Frej writes and performs in Swedish and English and has performed in several countries since 2016. They also create fanzines/chapbooks, available for sale through contact. Preferred themes: queer heritage and history, women, gender and sexuality, biology, handicrafts and working class perspectives.
-
-Frej has an academic background in heritage and conservation studies. They have attended Kvinnofolkhögskolans writing courses Your Silence Will Not Protect You and currently attend the writing program at Skurups folkhögskola.
-
+Frej Haar (they/them) is a Danish-Swedish poet and writer based in Malmö. In 2017, they won the Swedish National Poetry Slam Championship as well as the following European Championship in Brussels, Belgium. Their essays and poetry have been published in several Scandinavian and Swedish literary journals. Haar has a background in heritage and conservation studies, and has attended Kvinnofolkhögskolan's writing courses Your Silence Will Not Protect You as well as the writing program at Skurups folkhögskola. They are currently working on finishing a book of poetry about yarn, women, sheep and language. Frej writes and performs in Swedish and English and has performed in several countries since 2016. They also create fanzines/chapbooks, available for sale through contact. Preferred themes: queer heritage and history, women, gender and sexuality, biology, handicrafts and working class perspectives.
