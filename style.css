@@ -2,7 +2,7 @@ html {
     box-sizing: border-box;
     background-color: white;
     color: rgb(91, 99, 119);
-    font-family: 'Tiro Gurmukhi', serif;
+    font-family: 'Arimo', sans-serif;
     font-size: 12px;
 }
 
@@ -89,7 +89,7 @@ html, body {
     width: 100%;
     text-align: center;
     table-layout: fixed;
-    font-family: 'Tiro Gurmukhi', serif;
+    font-family: 'Arimo', sans-serif;
     font-weight: lighter;
     height: 140px;
     position: relative;
