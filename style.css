@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     background-color: white;
-    color: rgb(91, 99, 119);
+    color: black;
     font-family: 'Arimo', sans-serif;
     font-size: 12px;
 }
@@ -82,6 +82,7 @@ html, body {
     padding: 0 7%;
     height: 140px;
     position: relative;
+    color: rgb(91, 99, 119);
 }
 
 #menu table {
