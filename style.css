@@ -118,6 +118,9 @@ html, body {
 
 #content {
     padding: 15px 10%;
+    font-family: 'Amiri', serif;
+    word-spacing: -16%;
+    line-height: 1.75em;
 }
 #content.hidden {
     overflow: hidden;
@@ -131,10 +134,8 @@ html, body {
 #content p {
     font-size: 1.4em;
     margin: 0 0 14px 0;
-    line-height: 1.5;
-}
-#content a {
-    color: #abb2cb;
+    max-width: 600px;
+    line-height: 1.75em;
 }
 
 #page {
