@@ -19,9 +19,8 @@ historian kring din uppväxt<br>
 <br>
 <span style="color: rgb(0, 1, 0)">
 
-<b>Publikationer:<br></b>
-</span>
-20TAL nr. 6 tema Språk & Samhörighet. Dikt "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" <br>
+    <b>Publikationer:</b> <br>
+    20TAL nr. 6 tema Språk & Samhörighet. Dikt "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" <br>
 POETER I TVÅAN. Dikt "Why we venerate sado-masochistic, suicidal drug-addicts" tillsammans med Jorunn Lavonius.<br>
 Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt ["Dag1\_/Dag2\_"](https://ordkonst.nu/text/?author=Ordkonst?text=R%C3%A4ttelse:+Dag1_/Dag2_+av+Frej+Haar) <br>
 Antologi Nod (red. Michael Horvath, Region Örebro län). 2022. Dikt "Gay Power-68".<br>
@@ -38,6 +37,6 @@ Tidskriften [MELK](https://www.melkmag.com/tidsskriftet.html) 4:2017 tema Junk. 
 Tidskriften MELK 2:2017 tema OVERSKRIDELSER. Dikt "Snail child".<br>
 <br>
 <span style="color: rgb(0, 1, 0)">
-Jag finns även på [youtube](https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA) och [facebook](https://www.facebook.com/frejhaarpoetry/).
+Jag finns även på [youtube](https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA) och [facebook](https://www.facebook.com/frejhaarpoetry/) och [substack](https:https://frojdenfrojdenfrojden.substack.com/).
 </span>
 
