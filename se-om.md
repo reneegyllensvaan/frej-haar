@@ -1,5 +1,3 @@
---
-
 <br>Frej Haar (f. 1996) är dansk-svensk poet och prosaist utbildad inom kulturvård, bosatt i Malmö. Hen har tidigare gått Your Silence Will Not Protect You på Kvinnofolkhögskolan i Göteborg samt skrivarlinjen på Skurups folkhögskola. Hen vann SM och EM i poetry slam 2017.<br>
 
 <br>Frej skriver på svenska och engelska. Hen har självpublicerat fanzines sedan 2016 och medverkat i tidskrifter som 20TAL, Kritiker, Ordkonst, Astra och [MELK](https://www.melkmag.com/). Hen har uppträtt på scener i flera europeiska länder samt deltagit i panelsamtal och konferenser både i Sverige och utomlands samt medverkat i tidskriften 20TALs AKT UNG!. Hen mottog stipendie från Helge Ax:son våren 2022 för ett pågående projekt.
