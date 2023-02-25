@@ -42,7 +42,7 @@ etc. amen.<br>
 <p>
     Tidskriften Roten 4:2020 Minne. Poem "Det fanns en stad".</p>
 <p>
-    Kultur Ungdom poet of the month Spring 2020. Poems ["Dyk"]<a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">"Dyk"</a>, <a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">"Till de som behöver stöd"</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">"Ådrorna av staden"</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">"hästtjejer"</a>.
+    Kultur Ungdom poet of the month Spring 2020. Poems <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">"Dyk"</a>, <a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">"Till de som behöver stöd"</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">"Ådrorna av staden"</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">"hästtjejer"</a>.
 </p>
 <p>
     Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Contributing poet.</p>
