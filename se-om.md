@@ -6,30 +6,24 @@
 </p>
 
 <div class="image-with-credit right">
-    <img src="130487447_226609962189891_1456210138955443561_n.jpg">
+    <img src="karin_img_adj.png">
 </div>
- <p>
-    <b>Stadens ådror (2020)</b> <br>Mitt i en stad under stor förändring, pandemi och uppskjutet 400-årsjubileum faller vissa berättelser bort. I vissa fall osynliggörs de. I värsta fall raderas de aktivt, bl.a. genom att riva eller bygga bort viktiga platser. Osynligheten är däremot inte rotlös. Det finns ett hav av berättelser och historia under staden, om man bara ids att leta. I textens innehåll och de platser som nämns går det att läsa in andra röster och berättelser. Staden är inte bara queer. Den är också skapad av arbetet. Dikten lyfter det som visas upp mer sällan: livet, solidariteten och vår fortsatta kamps rötter.
-</p>
 <p>
-    Stadens ådror bestod av en 4,6 m rosa vägg där en plexiskiva med dikt sattes upp. Texten kom till under perioden jag skrev masteruppsats om kulturvårdens förståelse och attityder gentemot hbtq-kulturarv och perspektiv. Inom arbetet försökte jag kartlägga platser och byggnader med eventuellt potential att bevaras baserat på dess hbtq-historiska värde. Dikten är en tröst, ett försök att vidhålla minnen och information som dök upp i arkivmaterial från Queerrörelsens Arkiv och Bibliotek (QRAB) i Göteborg. Väggen fungerade också som en anslagstavla, där en lapp om Sam Hultins historieworkshops för Mitt Queera Göteborg sattes upp. <a href="https://www.facebook.com/Mitt-Queera-G%C3%B6teborg-106689931276260/">Mitt Queera Göteborg</a>, en <a href="https://izi.travel/browse/ac3eeb6d-4a43-4b07-961a-00edd3492843/sv">audioguide</a> och stadsvandringar, var del av förstudien till det planerade monumentet över Göteborgs hbtq-historia.
+    <b>"Jag längtar efter Karin Lindgren längtar efter mig"</b> <br> Knut Karin Lindgren (1949–2011) var en mjölkbonde och huvudperson i Rebecka Rasmussons kortfilmsdokumentär <i>En bondes längtan</i> (2010). Lindgren levde hela sitt liv i Sankt Olof, en by på Österlen. Lindgren förstod och kom ut som trans sent i livet. När hon sökte vård uppmanades hon att "klä sig i kvinnokläder" i fem år för att "känna efter". Lindgren gick bort 2011 och begravdes under hennes födelsenamn.
+    </p>
+    <p>
+    "Jag läntar efter Karin Lindgren längtar efter mig" ställdes ut under Nordic Trans Studies Conference 2023 vid Tammerfors universitet 23-25 februari 2023. Läs verket <a href="frejhaar.se/long-for-karin-lindgren.html">här</a>.
+ </p>
+ <p>
+    <b>Stadens ådror (2020)</b> <br> Staden är inte bara queer. Den är också skapad av arbetet.<br> <i>Stadens ådror</i> bestod av en 4,6 m rosa vägg där en plexiskiva med dikt sattes upp. Dikten är ett försök att vidhålla minnen och information som dök upp i arkivmaterial från Queerrörelsens Arkiv och Bibliotek (QRAB) i Göteborg under masteruppsatsarbetet. Väggen fungerade också som en anslagstavla, där en lapp om Sam Hultins historieworkshops för Mitt Queera Göteborg sattes upp. <a href="https://www.facebook.com/Mitt-Queera-G%C3%B6teborg-106689931276260/">Mitt Queera Göteborg</a>, en <a href="https://izi.travel/browse/ac3eeb6d-4a43-4b07-961a-00edd3492843/sv">audioguide</a> och stadsvandringar, var del av förstudien till det planerade monumentet över Göteborgs hbtq-historia.
 </p>
 <p>
     Stadens ådror ställdes ut på Friplanket i Göteborg under okt - nov 2020.
 </p>
-<p>
-    <b> Changemakers (2019) (beställningsverk)</b> <br>Beställningsverk för Adventure Travel Trade Associations Adventure Travel World Summit i september 2019. Diktuppträdande under keynote om ungas kraft och förändringspotential för framtiden. Mary Turner, redaktör vid <a href="https://www.outsideonline.com/2402857/everything-our-editors-loved-september/">Outside Magazine</a> sa:
-
-<i>“At the Adventure Travel Trade Association’s recent conference in Gothenburg, Sweden, I heard Danish-Swedish poet Frej Haar perform a poetry slam about the climate change crisis. Haar writes about trans activism, heritage, and other things close to their heart. Their words gave me chills, and people were both moved to tears and on their feet cheering Haar on.”</i>
-<br>
-
 <div class="image-with-credit right">
     <img src="pressbild.png">
 </div>
 <p>
-    <b> Frej Haar & Mor Måne (2017)</b> <br> Poesi/ljudverk, framträdande Palmarum 9/6 2017. Arbetades fram med Mor Måne/Renée Gyllensvaan med avstamp i diktsviten Snailchild. Delar har senare framförts på andra scener, som Ordsprak (2017).
-</p>
-<p>
-    <b> Snailchild (2016)</b> <br> Diktsviten "Snailchild - Burial of the dichotomous body" behandlade icke-binära transnarrativ och biologi. Trycktes upp som fanzine med illustrationer av Nino Mick. 
+    <b> Frej Haar & Mor Måne (2017)</b> <br> Poesi/ljudverk, framträdande Palmarum 9/6 2017. Arbetades fram med Mor Måne/Renée Gyllensvaan med avstamp i diktsviten Snailchild. Delar har senare framförts på andra scener som Ordsprak (2017).
 </p>
     
