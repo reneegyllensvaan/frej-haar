@@ -1,6 +1,6 @@
 
 
-<iframe width="50%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/246800466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" class= "right"></iframe>
+<iframe width="25%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/246800466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" class= "right"></iframe>
 
 <span style="color: rgb(131, 141, 168)">
 
@@ -23,16 +23,16 @@ historian kring din uppväxt<br>
    "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet. 
 </p>
 <p>
-    "Why we venerate sado-masochistic, suicidal drug-addicts" Dikt tillsammans med Jorunn Lavonius i POETER I TVÅAN (antologi).
+    "Why we venerate sado-masochistic, suicidal drug-addicts" Dikt tillsammans med Jorunn Lavonius i POETER I TVÅAN (antologi), 2022.
 </p>
 <p>
-    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf>"Dag1\_/Dag2\_"</a> Dikt i Ordkonst 1:2022 Vilda sanningar.
+    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1\_/Dag2\_"</a> Dikt i Ordkonst 1:2022 Vilda sanningar.
 </p>
 <p>
-    "Gay Power-68" Dikt i antologin Nod (red. Michael Horvath, Region Örebro län), 2022.
+    "Gay Power-68" Dikt i antologin Nod (red. Michael Horvath), Region Örebro län, 2022.
 </p>
 <p>
-    "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" Dikt i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>.
+    "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" Dikt i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>, 2022.
 </p>
 <p>
     "Jag längtar efter Karin Lindgren längtar efter mig" Essä i Astra 4:2021 Omsorg/Omtanke/Omvårdnad.
@@ -50,7 +50,7 @@ historian kring din uppväxt<br>
     "I en annan tid kommer någon att minnas oss" Dikt i Tidskriften Ordkonst 4:2020 Mikro (Appendix).
 </p>
 <p>
-    "Det fanns en stad" Dikt i Roten 4:2020 tema Minne.
+    "Det fanns en stad" Dikt i Roten 4:2020 Minne.
 </p>
 <p>
     Kultur Ungdom månadens poet våren 2020. Dikterna <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">Dyk</a>,<a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">Till de som behöver stöd</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">Ådrorna av staden</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">hästtjejer</a>.
@@ -59,14 +59,20 @@ historian kring din uppväxt<br>
     Deltagande poet i Den store SLAM!Boka (red. Guro Sibeko & Martine Johansen), littMELK, 2018.
 </p>
 <p>
-    "'What is the citizens' contribution to the strengthening of the European Union?' / Bite the hand that feeds you" Dikt i 19 Perspectives on Brussels and the European Union: European Championship Slam Poetry 2017. Pianofabriek Gemeenschapscentrum, 2017.
+    "'What is the citizens' contribution to the strengthening of the European Union?' / Bite the hand that feeds you" Dikt i 19 Perspectives on Brussels and the European Union: European Championship Slam Poetry 2017, Pianofabriek Gemeenschapscentrum, 2017.
 </p>
-                                                                                     <p>
-                                                                                     "Kulturdokumentation i utkanten av rummet" Artikel/essä i <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 tema Junk. 
-</p>
-<p>
-    "Snail child" Dikt i MELK 2:2017 tema OVERSKRIDELSER. 
+<p> 
+    "Kulturdokumentation i utkanten av rummet" Artikel/essä i <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk.
 </p>
 <p>
-    Jag finns även på <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> och <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> och <a href="https://frojdenfrojdenfrojden.substack.com/">substack</a>.
+    "Snail child" Dikt i MELK 2:2017 Overskridelser. 
+</p>
+<p>
+    "Snailchild - Burial of the dichotomous body" Fanzine med illustrationer av Nino Mick, 2016.
+</p>
+<p>
+    ---
+</p>
+<p> 
+    <i>Jag finns även på <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> och <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> och <a href="https://frojdenfrojdenfrojden.substack.com/">substack</a>.</i>
 </p>
