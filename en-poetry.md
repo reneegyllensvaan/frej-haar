@@ -10,7 +10,7 @@ etc. amen.<br>
 
 <br>
 <p>
-    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" 
+    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" (<i> "Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-
  </p>
  <p>
     POETER I TVÅAN. Poem "Why we venerate sado-masochistic, suicidal drug-addicts" together with Jorunn Lavonius.
@@ -34,7 +34,7 @@ etc. amen.<br>
     Orientering. Skurups skrivarlinje 2021. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">(order here)</a>.
 </p>
 <p>
-    Trakten 3:2020 Fattig/rik. Poem <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a>
+    Trakten 3:2020 Fattig/rik. Poem <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> ("There will always be questions")
 </p>
 <p>
     Tidskriften Ordkonst 4:2020 Mikro - Appendix. Poem "I en annan tid kommer någon att minnas oss"
