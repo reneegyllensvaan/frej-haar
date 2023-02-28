@@ -74,5 +74,5 @@ historian kring din uppväxt<br>
     ---
 </p>
 <p> 
-    <i>Jag finns även på <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> och <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> och <a href="https://frojdenfrojdenfrojden.substack.com/">substack</a>.</i>
+    <i>Jag finns även på <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> och <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> och <a href="https://frojdenfrojdenfrojden.substack.com">substack</a>.</i>
 </p>
