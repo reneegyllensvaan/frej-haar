@@ -20,49 +20,52 @@ historian kring din uppväxt<br>
     <b>Publikationer:</b>
 </p>
 <p>
-    20TAL nr. 6 tema Språk & Samhörighet. Dikt "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)"
+   "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet. 
 </p>
 <p>
-    POETER I TVÅAN. Dikt "Why we venerate sado-masochistic, suicidal drug-addicts" tillsammans med Jorunn Lavonius.
+    "Why we venerate sado-masochistic, suicidal drug-addicts" Dikt tillsammans med Jorunn Lavonius i POETER I TVÅAN (antologi).
 </p>
 <p>
-    Tidskriften Ordkonst 1:2022 tema Vilda sanningar. Dikt <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf>"Dag1\_/Dag2\_"</a>.
+    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf>"Dag1\_/Dag2\_"</a> Dikt i Ordkonst 1:2022 Vilda sanningar.
 </p>
 <p>
-    Antologi Nod (red. Michael Horvath, Region Örebro län). 2022. Dikt "Gay Power-68".
+    "Gay Power-68" Dikt i antologin Nod (red. Michael Horvath, Region Örebro län), 2022.
 </p>
 <p>
-    <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>. Dikt "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson"
+    "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" Dikt i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>.
 </p>
 <p>
-    Tidskriften Astra 4:2021 tema Omsorg/Omtanke/Omvårdnad. Essä "Jag längtar efter Karin Lindgren längtar efter mig"
+    "Jag längtar efter Karin Lindgren längtar efter mig" Essä i Astra 4:2021 Omsorg/Omtanke/Omvårdnad.
 </p>
 <p>
-    Tidskriften Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essä "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?"
+    "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?" Essä i Kritiker 61-62:2021 Mellem sprog/mellemsprog. 
 </p>
 <p>
-    Orientering. Skurups skrivarlinje 2021. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">[köp här]</a>.
+    "Hur garnet luktar", "K2" och "K". Dikter och essä i Skurups skrivarlinje 2021:s antologi Orientering. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">[köp här]</a>.
 </p>
 <p>
-    Trakten 3:2020 tema Fattig/rik. Dikt <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor")
+    <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> Dikt i Trakten 3:2020 Fattig/rik.
 </p>
 <p>
-    Tidskriften Ordkonst 4:2020 tema Mikro - Appendix. Dikt "I en annan tid kommer någon att minnas oss"
+    "I en annan tid kommer någon att minnas oss" Dikt i Tidskriften Ordkonst 4:2020 Mikro (Appendix).
 </p>
 <p>
-    Tidskriften Roten 4:2020 tema Minne. Dikt "Det fanns en stad".
+    "Det fanns en stad" Dikt i Roten 4:2020 tema Minne.
 </p>
 <p>
-    Kultur Ungdom månadens poet våren 2020. Dikt <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">Dyk</a>,<a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">Till de som behöver stöd</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">Ådrorna av staden</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">hästtjejer</a>.
+    Kultur Ungdom månadens poet våren 2020. Dikterna <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">Dyk</a>,<a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">Till de som behöver stöd</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">Ådrorna av staden</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">hästtjejer</a>.
 </p>
 <p>
-    Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Deltagande poet.
+    Deltagande poet i Den store SLAM!Boka (red. Guro Sibeko & Martine Johansen), littMELK, 2018.
 </p>
 <p>
-    Tidskriften <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 tema Junk. Artikel/essä "Kulturdokumentation i utkanten av rummet".
+    "'What is the citizens' contribution to the strengthening of the European Union?' / Bite the hand that feeds you" Dikt i 19 Perspectives on Brussels and the European Union: European Championship Slam Poetry 2017. Pianofabriek Gemeenschapscentrum, 2017.
+</p>
+                                                                                     <p>
+                                                                                     "Kulturdokumentation i utkanten av rummet" Artikel/essä i <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 tema Junk. 
 </p>
 <p>
-    Tidskriften MELK 2:2017 tema OVERSKRIDELSER. Dikt "Snail child".
+    "Snail child" Dikt i MELK 2:2017 tema OVERSKRIDELSER. 
 </p>
 <p>
     Jag finns även på <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> och <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> och <a href="https://frojdenfrojdenfrojden.substack.com/">substack</a>.
