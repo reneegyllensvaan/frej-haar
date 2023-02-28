@@ -47,7 +47,7 @@ etc. amen.<br>
 <p>
     Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Contributing poet.</p>
 <p>
-    <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk. Article/essay "Kulturdokumentation i utkanten av rummet". ("<i>Documenting culture in the outskirts of the room</i>")</p>
+    <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk. Article/essay "Kulturdokumentation i utkanten av rummet". ("<i>Documenting culture in the corners of a room</i>")</p>
 <p>
     MELK 2:2017 OVERSKRIDELSER. Poem "Snail child".</p>
 <p>
