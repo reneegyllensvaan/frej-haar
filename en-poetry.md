@@ -10,44 +10,44 @@ etc. amen.<br>
 
 <br>
 <p>
-    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" (<i> "Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-
+    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" ("<i> Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-lecture</i>").
  </p>
  <p>
     POETER I TVÅAN. Poem "Why we venerate sado-masochistic, suicidal drug-addicts" together with Jorunn Lavonius.
 </p>
 <p>    
-    Ordkonst 1:2022 Vilda sanningar. Poem <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1_/Dag2_"</a>
+    Ordkonst 1:2022 Vilda sanningar. Poem <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1_/Dag2_"</a>. ("<i>Day1_Day2_</i>").
 </p>
 <p>
-    Anthology Nod (ed. Michael Horvath, Region Örebro län). 2022. Poem "Gay Power-68"
+    Anthology Nod (ed. Michael Horvath, Region Örebro län). 2022. Poem "Gay Power-68".
 </p>
 <p>
-    <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>. Poem "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson"
+    <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>. Poem "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson". ("<i>speaking of feeling alive comma yes to and with lars gustaf andersson and david torstensson</i>").
 </p>
 <p>
-    Astra 4:2021 Omsorg/Omtanke/Omvårdnad. Essay "Jag längtar efter Karin Lindgren längtar efter mig"
+    Astra 4:2021 Omsorg/Omtanke/Omvårdnad. Essay "Jag längtar efter Karin Lindgren längtar efter mig". ("<i>I long for Karin Lindgren longs for me</i>").
 </p>
 <p>
-    Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essay "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?"
+    Kritiker 61-62:2021 tema Mellem sprog/mellemsprog. Essay "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?". ("<i>K / Darling you ask me to describe gender using only words / Katarina, what am I supposed to do with all the K-words?</i>").
 </p>
 <p>
-    Orientering. Skurups skrivarlinje 2021. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">(order here)</a>.
+    Orientering. Skurups skrivarlinje 2021. Anthology participation, poems and essay. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">(order here)</a>.
 </p>
 <p>
-    Trakten 3:2020 Fattig/rik. Poem <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> ("There will always be questions")
+    Trakten 3:2020 Fattig/rik. Poem <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> ("<i>There will always be questions</i>").
 </p>
 <p>
-    Tidskriften Ordkonst 4:2020 Mikro - Appendix. Poem "I en annan tid kommer någon att minnas oss"
+    Tidskriften Ordkonst 4:2020 Mikro - Appendix. Poem "I en annan tid kommer någon att minnas oss". ("<i>In another time someone will remember us</i>").
 </p>
 <p>
-    Tidskriften Roten 4:2020 Minne. Poem "Det fanns en stad".</p>
+    Tidskriften Roten 4:2020 Minne. Poem "Det fanns en stad". ("<i>There was a city</i>").</p>
 <p>
     Kultur Ungdom poet of the month Spring 2020. Poems <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">"Dyk"</a>, <a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">"Till de som behöver stöd"</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">"Ådrorna av staden"</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">"hästtjejer"</a>.
 </p>
 <p>
     Den store SLAM!Boka. 2018. Guro Sibeko & Martine Johansen, littMELK. Contributing poet.</p>
 <p>
-    <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk. Article/essay "Kulturdokumentation i utkanten av rummet".</p>
+    <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk. Article/essay "Kulturdokumentation i utkanten av rummet". ("<i>Documenting culture in the outskirts of the room</i>")</p>
 <p>
     MELK 2:2017 OVERSKRIDELSER. Poem "Snail child".</p>
 <p>
