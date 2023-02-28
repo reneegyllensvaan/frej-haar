@@ -10,7 +10,7 @@ etc. amen.<br>
 
 <br>
 <p>
-    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" ("<i> Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-lecture</i>").
+    <b>Publications:</b> <br> 20TAL nr. 6 Språk & Samhörighet. Poem "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)". ("<i> Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-Lecture (a three part act)</i>").
  </p>
  <p>
     POETER I TVÅAN. Poem "Why we venerate sado-masochistic, suicidal drug-addicts" together with Jorunn Lavonius.
