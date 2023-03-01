@@ -12,7 +12,7 @@
     <b>"Jag längtar efter Karin Lindgren längtar efter mig"</b> <br> Knut Karin Lindgren (1949–2011) var en mjölkbonde och huvudperson i Rebecka Rasmussons kortfilmsdokumentär <i>En bondes längtan</i> (2010). Lindgren levde hela sitt liv i Sankt Olof, en by på Österlen. Lindgren förstod och kom ut som trans sent i livet. När hon sökte vård uppmanades hon att "klä sig i kvinnokläder" i fem år för att "känna efter". Lindgren gick bort 2011 och begravdes under hennes födelsenamn.
 </p>
 <p>
-    "Jag läntar efter Karin Lindgren längtar efter mig" ställdes ut under Nordic Trans Studies Conference 2023 vid Tammerfors universitet 23-25 februari 2023. Läs verket <a href="frejhaar.se/long-for-karin-lindgren.html">här</a>.
+    "Jag läntar efter Karin Lindgren längtar efter mig" ställdes ut under Nordic Trans Studies Conference 2023 vid Tammerfors universitet 23-25 februari 2023. Läs verket <a href="https://frejhaar.se/long-for-karin-lindgren.html">här</a>.
 </p>
 <p>
     <b>Stadens ådror (2020)</b> <br> Staden är inte bara queer. Den är också skapad av arbetet.<br> <i>Stadens ådror</i> bestod av en 4,6 m rosa vägg där en plexiskiva med dikt sattes upp. Dikten är ett försök att vidhålla minnen och information som dök upp i arkivmaterial från Queerrörelsens Arkiv och Bibliotek (QRAB) i Göteborg under masteruppsatsarbetet. Väggen fungerade också som en anslagstavla, där en lapp om Sam Hultins historieworkshops för Mitt Queera Göteborg sattes upp. <a href="https://www.facebook.com/Mitt-Queera-G%C3%B6teborg-106689931276260/">Mitt Queera Göteborg</a>, en <a href="https://izi.travel/browse/ac3eeb6d-4a43-4b07-961a-00edd3492843/sv">audioguide</a> och stadsvandringar, var del av förstudien till det planerade monumentet över Göteborgs hbtq-historia.
