@@ -19,4 +19,4 @@ Sweden. Lindgren realised and came out as trans late in life. When seeking care 
    Lindgren was awarded the Federation of Swedish Farmers’ gold medal for 23 years of delivering exceptional quality milk in 2002. Karin: ”<i>It was crown princess Victoria who presented the medal, it’s probably not every day she gets to meet a woman dressed in a skirt with the name Knut.</i>” Lindgren passed away shortly after the premiere of the film and was buried under her birthname.
 </p>
 <p>
-    "Longing for Karin Lindgren" was exhibited at the Nordic Trans Studies Conference 2023 in Tampere University between 23rd and 25th of February 2023. Read work <a href="frejhaar.se/long-for-karin-lindgren.html">here</a>.
+    "Longing for Karin Lindgren" was exhibited at the Nordic Trans Studies Conference 2023 in Tampere University between 23rd and 25th of February 2023. Read work <a href="https://frejhaar.se/long-for-karin-lindgren.html">here</a>.
