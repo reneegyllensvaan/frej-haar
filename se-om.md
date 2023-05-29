@@ -4,7 +4,10 @@
 <p>
     Frej skriver på svenska och engelska. Hen har självpublicerat fanzines sedan 2016 och medverkat i tidskrifter som 20TAL, Kritiker, Ordkonst, Astra och <a href="https://www.melkmag.com/">MELK</a>. Hen har uppträtt på scener i flera europeiska länder samt deltagit i panelsamtal och konferenser både i Sverige och utomlands samt medverkat i tidskriften 20TALs AKT UNG!. Hen mottog stipendie från Helge Ax:son våren 2022 för ett pågående projekt.
 </p>
-
+<p>
+    <b>Delar av en enhet / delar av en helhet</b> <br> Gestaltningsuppdrag för Kungsbacka Live, Kungsbacka kommuns nya mötesplats för medborgardialog. Delar av en enhet / delar av en helhet utgick från definitionen av ordet dialog, som alltid specificeras vara mellan två människor. Verket ville på så sätt undersöka hur och vem som räknas inom del av Kungsbackas dialog.
+</p>
+    
 <div class="image-with-credit right">
     <img src="karin_img_adj.png">
 </div>
