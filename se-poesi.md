@@ -20,6 +20,9 @@ historian kring din uppväxt<br>
     <b>Publikationer:</b>
 </p>
 <p>
+   "Havet i munnen" översättning av Luka Holmegaard i 20TAL #9: Ny queer lyrik.
+</p>
+<p>
    "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet. 
 </p>
 <p>
@@ -29,7 +32,7 @@ historian kring din uppväxt<br>
     <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1\_/Dag2\_"</a> Dikt i Ordkonst 1:2022 Vilda sanningar.
 </p>
 <p>
-    "Gay Power-68" Dikt i antologin Nod (red. Michael Horvath), Region Örebro län, 2022.
+    "Gay Power -68" Dikt i antologin Nod (red. Michael Horvath), Region Örebro län, 2022.
 </p>
 <p>
     "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" Dikt i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>, 2022.
