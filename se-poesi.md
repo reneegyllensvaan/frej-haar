@@ -71,6 +71,9 @@ historian kring din uppväxt<br>
     "Snail child" Dikt i MELK 2:2017 Overskridelser. 
 </p>
 <p>
+    "Planes (The Iceberg Poem)" (dikt), tidskriften Splittet Kjerne #59, 2016.
+</p>
+<p>
     "Snailchild - Burial of the dichotomous body" Fanzine med illustrationer av Nino Mick, 2016.
 </p>
 <p>
