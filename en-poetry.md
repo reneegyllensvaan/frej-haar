@@ -10,7 +10,11 @@ etc. amen.<br>
 
 <br>
 <p>
-    <b>Publications:</b> <br> "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)". ("<i> Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-Lecture (a three part act)</i>") Poem in 20TAL #6: Språk & Samhörighet.
+    <b>Publications:</b> <br> 
+    <p>
+   "Havet i munnen" Translation of Luka Holmegaard in 20TAL #9: Ny queer lyrik.
+</p>
+<p>"HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)". ("<i>Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-Lecture (a three part act)</i>") Poem in 20TAL #6: Språk & Samhörighet.
  </p>
  <p>
     "Why we venerate sado-masochistic, suicidal drug-addicts" Poem together with Jorunn Lavonius in chapbook anthology POETER I TVÅAN.
@@ -53,6 +57,10 @@ etc. amen.<br>
     "Kulturdokumentation i utkanten av rummet" ("<i>Documenting culture in the corners of a room</i>") Article/essay in <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk.</p>
 <p>
     "Snail child" Poem in MELK 2:2017 Overskridelser.</p>
+<p>
+    
+    "Planes (The Iceberg Poem)" Poem in Splittet Kjerne #59, 2016.
+</p>
 <p>
     I am also on <a href="https://www.youtube.com/channel/UC2s2s3xzblnpZvomksmn-lA">youtube</a> and <a href="https://www.facebook.com/frejhaarpoetry/">facebook</a> and <a href="https://www.frojdenfrojdenfrojden.substack.com">substack</a>.
     </p>
