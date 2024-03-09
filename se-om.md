@@ -2,7 +2,7 @@
     Frej Haar (f. 1996) är dansk-svensk poet och prosaist utbildad inom kulturvård, bosatt i Malmö. Hen har tidigare gått Your Silence Will Not Protect You på Kvinnofolkhögskolan i Göteborg samt skrivarlinjen på Skurups folkhögskola. Hen vann SM och EM i poetry slam 2017.
 </p>
 <p>
-    Frej skriver på svenska och engelska. Hen har självpublicerat fanzines sedan 2016 och medverkat i tidskrifter som 20TAL, Kritiker, Ordkonst, Astra och <a href="https://www.melkmag.com/">MELK</a>. Hen har uppträtt på scener i flera europeiska länder samt deltagit i panelsamtal och konferenser både i Sverige och utomlands samt medverkat i tidskriften 20TALs AKT UNG!. Hen mottog stipendie från Helge Ax:son våren 2022 för ett pågående projekt.
+    Frej skriver på svenska och engelska. Hen har självpublicerat fanzines sedan 2016 och medverkat i tidskrifter som 20TAL, Kritiker, Ordkonst, Astra och <a href="https://www.melkmag.com/">MELK</a>. Hen har uppträtt på scener i flera europeiska länder samt deltagit i panelsamtal och konferenser både i Sverige och utomlands samt medverkat i tidskriften 20TAL:s AKT UNG!. Hen mottog stipendie från Helge Ax:son våren 2022 för ett pågående projekt.
 </p>
 <p>
     <b>Delar av en enhet / delar av en helhet</b> <br> Gestaltningsuppdrag för Kungsbacka Live, Kungsbacka kommuns nya mötesplats för medborgardialog. Delar av en enhet / delar av en helhet utgick från definitionen av ordet dialog, som alltid specificeras vara mellan två människor. Verket ville på så sätt undersöka hur och vem som räknas inom del av Kungsbackas dialog.
