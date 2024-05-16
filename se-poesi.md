@@ -19,11 +19,13 @@ historian kring din uppväxt<br>
 <p>
     <b>Publikationer:</b>
 </p>
-<p>
-   "Havet i munnen" översättning av Luka Holmegaard i 20TAL #9: Ny queer lyrik.
+    <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> Dikt(?) i Mörkrummet #6 ARV / SVARV / VAR / SVAR", 2024.
 </p>
 <p>
-   "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet. 
+   "Havet i munnen" översättning av Luka Holmegaard i 20TAL #9: Ny queer lyrik, 2023.
+</p>
+<p>
+   "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet, 2022. 
 </p>
 <p>
     "Why we venerate sado-masochistic, suicidal drug-addicts" Dikt tillsammans med Jorunn Lavonius i POETER I TVÅAN (antologi), 2022.
