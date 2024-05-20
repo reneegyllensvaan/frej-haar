@@ -20,64 +20,64 @@ historian kring din uppväxt<br>
     <b>Publikationer:</b>
 </p>
 <p>
-    <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> Dikt(?) i Mörkrummet #6 ARV / SVARV / VAR / SVAR", 2024.
+    <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> (dikt(?)) i <a href="https://morkrummet.biskopsarno.se/nummer/06/arv-svarv-var-svar-2/">Mörkrummet #06:</a> ARV / SVARV / VAR / SVAR, 2024.
 </p>
 <p>
-   "Havet i munnen" översättning av Luka Holmegaard i 20TAL #9: Ny queer lyrik, 2023.
+   "No face, no match" (diktsvit, översättning från danska Luka Holmegaards "Havet i munden") i 20TAL #9: Ny queer lyrik, 2023.
 </p>
 <p>
-   "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" Dikt i 20TAL #6: Språk & Samhörighet, 2022. 
+   "HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)" (diktsvit) i 20TAL #6: Språk & Samhörighet, 2022. 
 </p>
 <p>
-    "Why we venerate sado-masochistic, suicidal drug-addicts" Dikt tillsammans med Jorunn Lavonius i POETER I TVÅAN (antologi), 2022.
+    "Why we venerate sado-masochistic, suicidal drug-addicts" (dikt) tillsammans med Jorunn Lavonius i antologin POETER I TVÅAN, 2022.
 </p>
 <p>
-    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1\_/Dag2\_"</a> Dikt i Ordkonst 1:2022 Vilda sanningar.
+    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1\_/Dag2\_"</a> (diktsvit) i Ordkonst #1: Vilda sanningar, 2022.
 </p>
 <p>
-    "Gay Power -68" Dikt i antologin Nod (red. Michael Horvath), Region Örebro län, 2022.
+    "Gay Power -68" (dikt) i antologin Nod (red. Michael Horvath, Region Örebro län), 2022.
 </p>
 <p>
-    "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" Dikt i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>, 2022.
+    "på tal om att känna sig levande kommatecken ja till och med lars gustaf andersson och david torstensson" (dikt) i <a href="https://textdungen.com/2022/01/15/dungens-fyra-sidor-4/">Dungens Fyra Sidor #4</a>, 2022.
 </p>
 <p>
-    "Jag längtar efter Karin Lindgren längtar efter mig" Essä i Astra 4:2021 Omsorg/Omtanke/Omvårdnad.
+    "Jag längtar efter Karin Lindgren längtar efter mig" (essä) i Astra #4: Omsorg/Omtanke/Omvårdnad, 2021.
 </p>
 <p>
-    "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?" Essä i Kritiker 61-62:2021 Mellem sprog/mellemsprog. 
+    "K / Älskling du ber mig beskriva könet med bara orden / Katarina, vad ska jag göra med alla K-orden?" (essä) i Kritiker 61-62: Mellem sprog/mellemsprog, 2021. 
 </p>
 <p>
-    "Hur garnet luktar", "K2" och "K". Dikter och essä i Skurups skrivarlinje 2021:s antologi Orientering. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">[köp här]</a>.
+    "Hur garnet luktar", "K2" och "K" (dikter och essä) i antologi Orientering, Skurups skrivarlinje 2020–21, 2022. <a href="https://www.bokus.com/bok/9789198396041/orientering-skurups-skrivarlinje-2021/?utm_campaign=boktugg.se&utm_medium=Tradedoubler%20CPC&utm_source=tradedoubler">[köp här]</a>.
 </p>
 <p>
-    <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> Dikt i Trakten 3:2020 Fattig/rik.
+    <a href="https://trakten.nu/tavling-fattig-rik/det-kommer-alltid-finnas-fragor/">"Det kommer alltid finnas frågor"</a> (dikt) i Trakten #3: Fattig/rik, 2020.
 </p>
 <p>
-    "I en annan tid kommer någon att minnas oss" Dikt i Tidskriften Ordkonst 4:2020 Mikro (Appendix).
+    "I en annan tid kommer någon att minnas oss" (dikt) i Tidskriften Ordkonst #4: Mikro (Appendix), 2020.
 </p>
 <p>
-    "Det fanns en stad" Dikt i Roten 4:2020 Minne.
+    "Det fanns en stad" (dikt) i Roten #4: Minne, 2020.
 </p>
 <p>
-    Kultur Ungdom månadens poet våren 2020. Dikterna <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">Dyk</a>,<a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">Till de som behöver stöd</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">Ådrorna av staden</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">hästtjejer</a>.
+    <a href="https://www.kulturungdom.se/genre/text/353-poesi-dyk">Dyk</a>,<a href="https://www.kulturungdom.se/genre/text/360-poesi-till-de-som-behover-stod">Till de som behöver stöd</a>, <a href="https://www.kulturungdom.se/genre/text/365-poesi-adrorna-av-staden">Ådrorna av staden</a>, <a href="https://www.kulturungdom.se/genre/text/345-poesi-hasttjejer">hästtjejer</a> (dikter), månadens poet på Kultur Ungdoms hemsida, 2020.
 </p>
 <p>
-    Deltagande poet i Den store SLAM!Boka (red. Guro Sibeko & Martine Johansen), littMELK, 2018.
+    Dikter och intervju i Den store SLAM!Boka (red. Guro Sibeko & Martine Johansen), littMELK, 2018.
 </p>
 <p>
-    "'What is the citizens' contribution to the strengthening of the European Union?' / Bite the hand that feeds you" Dikt i 19 Perspectives on Brussels and the European Union: European Championship Slam Poetry 2017, Pianofabriek Gemeenschapscentrum, 2017.
+    "'What is the citizens' contribution to the strengthening of the European Union?' / Bite the hand that feeds you" (dikt) i 19 Perspectives on Brussels and the European Union: European Championship Slam Poetry 2017, Pianofabriek Gemeenschapscentrum, 2017.
 </p>
 <p> 
-    "Kulturdokumentation i utkanten av rummet" Artikel/essä i <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> 4:2017 Junk.
+    "Kulturdokumentation i utkanten av rummet" (artikel/essä) i <a href="https://www.melkmag.com/tidsskriftet.html">MELK</a> #4: Junk, 2017.
 </p>
 <p>
-    "Snail child" Dikt i MELK 2:2017 Overskridelser. 
+    "Snail child" (dikt) i MELK #2: Overskridelser, 2017. 
 </p>
 <p>
-    "Planes (The Iceberg Poem)" (dikt), tidskriften Splittet Kjerne #59, 2016.
+    "Planes (The Iceberg Poem)" (dikt) tidskriften Splittet Kjerne #59, 2016.
 </p>
 <p>
-    "Snailchild - Burial of the dichotomous body" Fanzine med illustrationer av Nino Mick, 2016.
+    "Snailchild – Burial of the dichotomous body" (fanzine) med illustrationer av Nino Mick, 2016.
 </p>
 <p>
     ---
