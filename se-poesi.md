@@ -20,6 +20,8 @@ historian kring din uppväxt<br>
     <b>Publikationer:</b>
 </p>
 <p>
+    Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.
+<p>
     <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> (dikt(?)) i <a href="https://morkrummet.biskopsarno.se/nummer/06/arv-svarv-var-svar-2/">Mörkrummet #06:</a> ARV / SVARV / VAR / SVAR, 2024.
 </p>
 <p>
