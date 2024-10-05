@@ -15,11 +15,16 @@ skriv på mina revben<br>
 historian kring din uppväxt<br>
     --<br></i>
 </span>
+<p>
+    <b>Böcker:</b>
+    <p>Bindepraktika. 2024. 20TAL Bok.</p>
+    
+</p>
 
 <p>
-    <b>Publikationer:</b>
+    <b>Texter:</b>
 </p>
-<p>
+<p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutantporträtt</a> i Svensk Bokhandels katalog, 2024. </p>
     Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.
 <p>
     <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> (dikt(?)) i <a href="https://morkrummet.biskopsarno.se/nummer/06/arv-svarv-var-svar-2/">Mörkrummet #06:</a> ARV / SVARV / VAR / SVAR, 2024.
