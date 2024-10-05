@@ -10,9 +10,16 @@ etc. amen.<br>
 
 <br>
 <p>
-    <b>Publications:</b> <br> 
+    <b>Books:</b> <br>
+<p> Bindepraktika. 2024. 20TAL Bok.</p>
+    <b>Texts and other writing:</b> <br> 
+    <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutant portrait</a> in Svensk Bokhandels katalog, 2024. </p>
+    <p> Excerpt of <i>Bindepraktika</i>. (poem) in Standart #2 2024, Stand-in: Beklædning.
+        <p>
+    <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> (poem(?)) in <a href="https://morkrummet.biskopsarno.se/nummer/06/arv-svarv-var-svar-2/">Mörkrummet #06:</a> ARV / SVARV / VAR / SVAR, 2024.
+</p>
     <p>
-   "Havet i munnen" Translation of Luka Holmegaard in 20TAL #9: Ny queer lyrik.
+   "No face, no match" Swedish translation of Luka Holmegaard in 20TAL #9: Ny queer lyrik.
 </p>
 <p>"HILDEGARD HILDEBINGEN / HILDEGARD HILDEBABY / HILDEGARD HILDEBERÄTTA (EN AKT I TRE DELAR)". ("<i>Hildegard Hildebingen / Hildegard Hildebaby / Hildegard Hilde-Lecture (a three part act)</i>") Poem in 20TAL #6: Språk & Samhörighet.
  </p>
@@ -58,7 +65,6 @@ etc. amen.<br>
 <p>
     "Snail child" Poem in MELK 2:2017 Overskridelser.</p>
 <p>
-    
     "Planes (The Iceberg Poem)" Poem in Splittet Kjerne #59, 2016.
 </p>
 <p>
