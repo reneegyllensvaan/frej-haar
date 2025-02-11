@@ -25,7 +25,7 @@ historian kring din uppväxt<br>
     <b>Texter:</b>
 </p>
 <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutantporträtt</a> i Svensk Bokhandels katalog, 2024. </p>
-    Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.
+<p>Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.</p>
 <p>
     <a href="https://morkrummet.biskopsarno.se/nummer/01/skrivelsetango/">"Skrivelsetango"</a> (dikt(?)) i <a href="https://morkrummet.biskopsarno.se/nummer/06/arv-svarv-var-svar-2/">Mörkrummet #06:</a> ARV / SVARV / VAR / SVAR, 2024.
 </p>
@@ -39,7 +39,7 @@ historian kring din uppväxt<br>
     "Why we venerate sado-masochistic, suicidal drug-addicts" (dikt) tillsammans med Jorunn Lavonius i antologin POETER I TVÅAN, 2022.
 </p>
 <p>
-    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1\_/Dag2\_"</a> (diktsvit) i Ordkonst #1: Vilda sanningar, 2022.
+    <a href="https://reneegyllensvaan.github.io/frej-haar/Bodea.Brochure.pdf">"Dag1_/Dag2_"</a> (diktsvit) i Ordkonst #1: Vilda sanningar, 2022.
 </p>
 <p>
     "Gay Power -68" (dikt) i antologin Nod (red. Michael Horvath, Region Örebro län), 2022.
