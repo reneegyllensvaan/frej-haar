@@ -1,5 +1,5 @@
 <p>
-    Frej Haar (f. 1996) är dansk-svensk poet och prosaist utbildad inom kulturvård, bosatt i Malmö. Hen har tidigare gått Your Silence Will Not Protect You på Kvinnofolkhögskolan i Göteborg, skrivarlinjen på Skurups folkhögskola och Biskops Arnös författarskola. Hen debuterade 2024 med diktsamlingen <i></i>Bindepraktika</i>. 2017 blev hen svensk och europeisk mästare i poetry slam.
+    Frej Haar (f. 1996) är dansk-svensk poet och prosaist utbildad inom kulturvård, bosatt i Malmö. Hen har tidigare gått Your Silence Will Not Protect You på Kvinnofolkhögskolan i Göteborg, skrivarlinjen på Skurups folkhögskola och Biskops Arnös författarskola. Hen debuterade 2024 med diktsamlingen <i>Bindepraktika</i> (20TAL Bok). 2017 blev hen svensk och europeisk mästare i poetry slam.
 </p>
 <p>
     Frej skriver på svenska och engelska. Hen har självpublicerat fanzines sedan 2016 och medverkat i tidskrifter som 20TAL, Kritiker, Ordkonst, Astra och <a href="https://www.melkmag.com/">MELK</a>. Hen har uppträtt på scener i flera europeiska länder samt deltagit i panelsamtal och konferenser både i Sverige och utomlands samt medverkat i tidskriften 20TAL:s AKT UNG!. Hen mottog stipendie från Helge Ax:son våren 2022 för ett pågående projekt.
