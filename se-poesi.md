@@ -24,6 +24,7 @@ historian kring din uppväxt<br>
 <p>
     <b>Texter:</b>
 </p>
+<p> Dikt för Pennor för Palestina, 2024.</p>
 <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutantporträtt</a> i Svensk Bokhandels katalog, 2024. </p>
 <p>Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.</p>
 <p>
