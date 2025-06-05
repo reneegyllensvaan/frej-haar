@@ -11,8 +11,9 @@ etc. amen.<br>
 <br>
 <p>
     <b>Books:</b> <br>
-<p> Bindepraktika. 2024. 20TAL Bok.</p>
+<p> Bindepraktika. 2024. 20TAL Bok. <a href="https://20tal.se/bocker/bindepraktika/">(order here)</a></p>
     <b>Texts and other writing:</b> <br> 
+<p> "Yrkessymbol: Sax [tillståndsbeskrivning]" (<i>Workers' emblem: Scissors [object record description]</i>) Poem in Stygn för stygn (Autor/Textival), 2025.</p>
     <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutant portrait</a> in Svensk Bokhandels katalog, 2024. </p>
     <p> Excerpt of <i>Bindepraktika</i>. (poem) in Standart #2 2024, Stand-in: Beklædning.
         <p>
