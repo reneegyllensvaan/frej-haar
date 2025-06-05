@@ -17,13 +17,14 @@ historian kring din uppväxt<br>
 </span>
 <p>
     <b>Böcker:</b>
-    <p>Bindepraktika. 2024. 20TAL Bok.</p>
+    <p>Bindepraktika. 2024. 20TAL Bok. ( <a href="https://20tal.se/bocker/bindepraktika/">läs mer / beställ här</a> )</p>
     
 </p>
 
 <p>
     <b>Texter:</b>
 </p>
+<p> "Yrkessymbol: sax [Tillståndsbeskrivning]", dikt i Stygn för stygn: texten, handen, tråden (Autor/Textival), 2025.</p>
 <p> Dikt för Pennor för Palestina, 2024.</p>
 <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutantporträtt</a> i Svensk Bokhandels katalog, 2024. </p>
 <p>Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.</p>
