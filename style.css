@@ -122,7 +122,7 @@ html, body {
 #content {
     padding: 15px 10%;
     font-family: 'Amiri', serif;
-    word-spacing: 1%;
+    word-spacing: normal;
     line-height: 1.75em;
 }
 #content.hidden {
