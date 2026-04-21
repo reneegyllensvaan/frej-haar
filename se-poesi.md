@@ -20,12 +20,17 @@ historian kring din uppväxt<br>
     <p>Bindepraktika. 2024. 20TAL Bok. ( <a href="https://20tal.se/bocker/bindepraktika/">läs mer / beställ här</a> )</p>
     
 </p>
-
+<p>
+    <b>Översättningar:</b>
+    <p>Luka Holmegaard, <i>Hund, tyst</i>. 2026. ellerströms [översättning från danska till svenska, original: <i>Hund, stille</i> (OVBIDAT, 2023)]
+    </p>
 <p>
     <b>Texter:</b>
 </p>
-<p> "Yrkessymbol: sax [Tillståndsbeskrivning]", dikt i Stygn för stygn: texten, handen, tråden (Autor/Textival), 2025.</p>
-<p> Dikt för Pennor för Palestina, 2024.</p>
+<p> "Fåglar är också en fråga om rytm", essä i Lyrikvännen nr 1/2026, årgång 73.</p>
+<p> Dikt utan titel, i Pennor för Palestinas antologi (DUST förlag), 2025.</p>
+<p> "Yrkessymbol: sax [Tillståndsbeskrivning]", dikt i Stygn för stygn: texten, handen, tråden (Autor), 2025.</p>
+<p> Poesibrevet v. 51, för Pennor för Palestina, 2024.</p>
 <p> <a href="https://www.svb.se/debutanter/frej-haar/4266561">Debutantporträtt</a> i Svensk Bokhandels katalog, 2024. </p>
 <p>Utdrag ur <i>Bindepraktika</i> (poesi) i Standart #2 2024, Stand-in: Beklædning.</p>
 <p>
